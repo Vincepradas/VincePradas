@@ -2,15 +2,10 @@
 I am bins,
 ihatephp
 
-Certain projects are confidential (set to private) under client NDAs and may be shared for private review upon request and with client approval.
+Certain projects are confidential (set to private) under client NDAs and may be shared for private review upon request and with client approva.
 Please contact me at pradasvince@gmail.com
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vince.6910) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/VincePradas) 
-
-## Playing
-<!-- <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31cbuazozzjwmuspxd6roadhyu5i">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cbuazozzjwmuspxd6roadhyu5i" alt="Data Card for Spotify">
-</a> -->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&redirect=true)
 
