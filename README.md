@@ -9,7 +9,7 @@ Please contact me at pradasvince@gmail.com
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cbuazozzjwmuspxd6roadhyu5i&redirect=true)
 
-## Repo Analytics 
+## 
 ![Repo Traffic Stats](reponalytics.svg)
 
 ## Contribution Graph
