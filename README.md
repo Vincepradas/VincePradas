@@ -4,6 +4,7 @@ ihatephp
 
 Certain projects are confidential (set to private) under client NDAs and may be shared for private review upon request and with client approval.
 Please contact me at pradasvince@gmail.com
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincepradas&theme=tokyonight" alt="mystreak"/>
 
 ##  Socials
