@@ -5,6 +5,7 @@ ihatephp
 Certain projects are confidential (set to private) under client NDAs and may be shared for private review upon request and with client approval.
 Please contact me at pradasvince@gmail.com
 
+# What I'm listening
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31cbuazozzjwmuspxd6roadhyu5i">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31cbuazozzjwmuspxd6roadhyu5i" alt="Data Card for Spotify">
 </a>
