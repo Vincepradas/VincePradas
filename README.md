@@ -17,5 +17,5 @@ Please contact me at pradasvince@gmail.com
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vxw&layout=compact&hide=html,css&bg_color=293036&card_width=1000&size_weight=1&count_weight=5text_color=ffffff"& />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vxw&layout=compact&hide=html,css&bg_color=293036&card_width=1000&size_weight=1&count_weight=1text_color=ffffff"& />
 </p>
