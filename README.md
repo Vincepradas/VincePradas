@@ -16,4 +16,4 @@ Please contact me at pradasvince@gmail.com
 [![Vince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1vxw&bg_color=293036&color=ffffff&line=9ecbff&point=f97583&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vxw)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1vxw&layout=compact)
